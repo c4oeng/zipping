@@ -17,4 +17,4 @@ applyTo: "*"
 ## Ask mode
 * @workspace Write a simple META window using the `guitk` functions. There should be one button called "Generate" in the window. When pressed, it should generate a random number between 1 and 100. Show me the script here.
 
-<!-- Edited by GHC for BugHunter on April 9, 2026. 🚀 -->
+<!-- 🚀 -->

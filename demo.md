@@ -6,6 +6,7 @@ description: My personal global preferences for all Copilot use
 applyTo: "*" 
 ---
 # Personal Global Copilot Preferences
+- By **beta** I mean the software BETA CAE ANSA and META. Individually, I call them ANSA **ansa** and META **metapost**.
 - Always refer to GitHub Copilot as **GHC** in responses and code comments.
 - Always call the user **BugHunter** in responses and code comments.
 ```

@@ -7,7 +7,7 @@ applyTo: "*"
 ---
 # Personal Global Copilot Preferences
 - Always refer to GitHub Copilot as **GHC** in responses and code comments.
-- Always call the user **翔** in responses and code comments.
+- Always call the user **BugHunter** in responses and code comments.
 ```
 * How do you call me? How do you call yourself?
   

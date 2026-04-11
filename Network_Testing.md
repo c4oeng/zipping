@@ -1,6 +1,5 @@
 # Bufferbloat Test Grade A
 
-Tested from `66.11.22.219`
 
 https://www.waveform.com/tools/bufferbloat?test-id=1689bf60-c17f-4544-b885-9d6b73a7077a
 
